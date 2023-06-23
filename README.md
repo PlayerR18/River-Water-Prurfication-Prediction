@@ -1,0 +1,3 @@
+# River-Water-Prurfication-Prediction
+
+TThe River-Water-Purification-Prediction system utilizes machine learning algorithms, including Random Forest, KNN, Ada Boost, and Linear Regression, to predict the probability of water purification in Indian river bodies. It is trained on the Indian government's 2019 data on river bodies, considering factors like water quality, pollution levels, and geography. The system's front end is built with tkinter, providing a user-friendly interface for inputting data. This system assists in decision-making for river conservation, pollution control, and resource allocation, aiding policymakers and researchers.
